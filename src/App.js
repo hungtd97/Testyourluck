@@ -10,7 +10,6 @@ import { Dashboard } from "./view/dashboard";
 import "./assets/bootstrap/css/bootstrap.min.css";
 
 function App() {
-  console.log("env", process.env)
   return (
     <div className="App">
       <Router>
